@@ -76,7 +76,7 @@ python -m pip install pandas numpy matplotlib seaborn scikit-learn xgboost light
 ### Google Colab
 
 1. Open [Google Colab](https://colab.research.google.com/).
-2. Upload `Wine_Quality_Prediction(8).ipynb` and open it.
+2. Upload `Wine_Quality_Prediction.ipynb` and open it.
 3. Upload `winequality-red.csv` and `winequality-white.csv` to the current runtime's working directory.
 4. Make sure both CSV filenames match the names expected by the notebook.
 5. Select **Runtime > Run all** to execute the notebook in order.
@@ -95,7 +95,7 @@ Run:
 jupyter notebook
 ```
 
-Open `Wine_Quality_Prediction(8).ipynb` and execute the cells from top to bottom.
+Open `Wine_Quality_Prediction.ipynb` and execute the cells from top to bottom.
 
 The original CSV datasets must be accessible using the relative filenames expected by the notebook.
 
